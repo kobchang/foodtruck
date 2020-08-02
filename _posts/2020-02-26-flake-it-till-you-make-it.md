@@ -3,7 +3,7 @@ layout: post
 title: Today's menu
 subtitle: Excerpt from Soulshaping by Jeff Brown
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/pexels-pixabay-262897.jpg
 share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
